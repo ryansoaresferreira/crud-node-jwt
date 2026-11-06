@@ -49,3 +49,15 @@ O projeto foi construído utilizando tecnologias modernas e amplamente adotadas 
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+
+
+   Instale as dependências:
+
+Bash
+npm install
+Configure o arquivo .env na raiz do projeto baseando-se nas variáveis necessárias (ex: PORT, MONGO_URI, JWT_SECRET).
+
+Inicie o servidor em modo de desenvolvimento:
+
+Bash
+npm run dev
